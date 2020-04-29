@@ -42,7 +42,7 @@ Plays the music together with the system
 ## How to install
 
     git clone https://github.com/Audiveris/audiveris
-    # put inside audiveris folder
+    # create folder 'audiveris' and put the cloned repo files to that folder
     
     Run `composer install`
     
